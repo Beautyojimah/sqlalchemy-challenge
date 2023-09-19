@@ -1,8 +1,8 @@
-# sqlalchemy-challenge involving Climate Analysis and Exploration with Flask API
+# Sqlalchemy-challenge involving Climate Analysis and Exploration with Flask API
 
 This project provides a climate analysis of Honolulu, Hawaii, and serves the results via a Flask API. The data is sourced from SQLite databases and the analysis is performed using SQLAlchemy ORM, Pandas, and Matplotlib.
 
-The repository contains a`SurfsUp` folder. Within this folder is the python file and jupyter notebook file - `climate_starter.ipynb` and `app.py`, which holds the codes for the climate analysis and the codes for serving the results bia flask, respectively.   
+The repository contains a `SurfsUp` folder. Within this folder is the jupyter notebook (`climate_starter.ipynb`) and python file (`app.py`), which holds the codes for the climate analysis and the codes for serving the results bia flask, respectively.   
 
 The resource folder holds the csv files used for this analysis. 
 
